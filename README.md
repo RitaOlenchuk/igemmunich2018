@@ -11,7 +11,6 @@ The app was implemented in the context of our iGEM project, where several DNA pu
 
 
 #### Features
-
 - investigate FASTQ or FAST5 format files
 - start calculations for several experiments in parallel
 - examine single files or many files at once
@@ -23,10 +22,11 @@ The app was implemented in the context of our iGEM project, where several DNA pu
 
 
 
-
 #### Employed Software and Modules
 - Graphmap
 - HTSeq
 - Electron
 - Material-UI
-   
+
+#### Acknowledgement
+Electron React Biolerplaite

@@ -31,4 +31,5 @@ The app was implemented in the context of our iGEM project, where several DNA pu
 #### Acknowledgement
 irath96: Electron Biolerplate
 https://github.com/irath96/electron-react-typescript-boilerplate
-We would like to thank our whole team and especially our supervisors for the hard work, support and the possibility to work with such interesting data.
+
+We would like to thank our whole team and especially our supervisors for the hard work, support and the possibility to work with novel fastq data.

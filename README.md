@@ -9,6 +9,7 @@ Third generation sequencing techniques rapidly evolved as a common practice in m
 The app was implemented in the context of our iGEM project, where several DNA purification protocols were evaluated with Sequ-Into and thus allowed iterative engineering cycles leading to a so far unreached purification of up to 96% (bases sequenced) in our probes. To read more about Phactory, please follow this link: http://2018.igem.org/Team:Munich/Workspace   
 
 
+
 #### Features
 
 - investigate FASTQ or FAST5 format files
@@ -19,6 +20,7 @@ The app was implemented in the context of our iGEM project, where several DNA pu
 - map your read files against DNA as well as against RNA references
 - get an statistical overview on the results that is also visualized
 - save only those extracted reads you need for your further analysis (reads that either aligned, or didn't align to the chosen reference)   
+
 
 
 

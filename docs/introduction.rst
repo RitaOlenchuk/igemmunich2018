@@ -1,4 +1,4 @@
-.. _introduction.rst:
+.. _introduction:
 
 Third generation sequencing techniques rapidly evolved as a common practice in molecular biology. Great advances have been made in terms of feasibility, cost, throughput, and read-length. However, sample contamination still poses a big issue: it complicates correct, high-quality downstream analysis of sequencing data and usage in medical applications. Furthermore, it might be unclear weather the sequenced reads represent the intended target. 
 To address these issues we developed a cross-platform desktop application: Sequ-Into. 

@@ -29,4 +29,4 @@ The app was implemented in the context of our iGEM project, where several DNA pu
 - Material-UI
 
 #### Acknowledgement
-Electron React Biolerplaite
+Electron React Biolerplate

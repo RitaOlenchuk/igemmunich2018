@@ -29,4 +29,7 @@ The app was implemented in the context of our iGEM project, where several DNA pu
 - Material-UI
 
 #### Acknowledgement
-Electron React Biolerplate
+irath96: Electron Biolerplate
+https://github.com/irath96/electron-react-typescript-boilerplate
+
+Our whole team and especially our supervisors for the hard work, support and the possibility to work with such interesting data.

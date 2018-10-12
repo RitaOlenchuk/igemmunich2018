@@ -1,5 +1,5 @@
 .. _methods:
 
 ********************
-methods
+How does Sequ-Into work?
 ********************

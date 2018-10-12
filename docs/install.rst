@@ -1,5 +1,5 @@
 **********************
-INSTALL SEQU-INTO
+Installation
 **********************
 
 Bla blubb

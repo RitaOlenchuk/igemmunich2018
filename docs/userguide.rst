@@ -1,5 +1,5 @@
 .. _userguide:
 
 ********************
-userguide
+User Guide
 ********************

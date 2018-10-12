@@ -1,5 +1,5 @@
-.. _userguide:
+.. _methods:
 
 ********************
-userguide
+methods
 ********************

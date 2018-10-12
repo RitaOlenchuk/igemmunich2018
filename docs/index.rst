@@ -11,4 +11,4 @@ sequ-into is cool!
 	install.rst
 	userguide.rst
 	methods.rst
-	licences.rst
+	licence.rst

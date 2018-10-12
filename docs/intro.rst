@@ -7,8 +7,7 @@ read analysis
 ********************
 
 ====
-sequ-into - A straightforward desktop app for third generation sequencing
-read analysis
+sequ-into - A straightforward desktop app for third generation sequencing read analysis
 ====
 
 Third generation sequencing techniques rapidly evolved as a common practice in

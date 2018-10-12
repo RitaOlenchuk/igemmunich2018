@@ -2,4 +2,14 @@
 Installation
 **********************
 
-Bla blubb
+Windows
+-------
+idk
+
+Linux
+-------
+idk
+
+Mac OS
+-------
+idk

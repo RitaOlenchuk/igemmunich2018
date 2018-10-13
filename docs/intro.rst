@@ -7,7 +7,10 @@ read analysis
 ********************
 
 ====
-sequ-into - A straightforward desktop app for third generation sequencing read analysis
+sequ-into
+====
+
+A straightforward desktop app for third generation sequencing read analysis
 ====
 
 Third generation sequencing techniques rapidly evolved as a common practice in
@@ -17,7 +20,7 @@ issue: it complicates correct, high-quality downstream analysis of sequencing
 data and usage in medical applications. Furthermore, it might be unclear weather
 the sequenced reads represent the intended target.
 
-To address these issues we
+To address these issues we 
 developed a cross-platform desktop application: *sequ-into*. Reads originating
 from unwanted sources are detected and summarized by a comprehensive statistical
 overview, but can also be filtered and exported in standardized FASTQ-format to
@@ -34,6 +37,34 @@ purification protocols were evaluated with *sequ-into* and thus allowed iterativ
 engineering cycles leading to a so far unreached DNA purification of up to 96%
 (bases sequenced) in our probes. To learn more about Phactory, please follow this
 link: http://2018.igem.org/Team:Munich
+
+
+
+Why is sequ-into an notable addition to your third generation sequencing routine?
+====
+“… our run times aren’t fixed, unlike the other systems. Some people even have what they are looking for after a few minutes in real time, with success criteria not being based on total yield and an en-run analysis.” - Clive G. Brown, CTO of Oxford Nanopore
+
+This raises a simple question: How do you check if you have what we are looking for in a quick and easy manner?
+
+The question could also be rephrased to: Is our sequencing run contaminated?
+In contrast to Illumina sequencing, for minION sequencing and third generation sequencing in genreal, 
+
+
+
+
+
+there is always the possibility to abort a sequencing procedure, redo the library preparation and continue using the same chip. Especially when sequencing prokaryotic(-like) material, a high contamination of the sample is possible, either by human DNA/RNA from library prep, ribosomal RNA due to rRNA depletion not working, or even contamination from other organisms (host organism for phages, etc.). The earlier such a contamination is detected, the better the sequencing chip can be conserved for future use. Here we want to present sequint, a cross-platform tool to easily detect contaminated samples during a sequencing run. We are inspired of this idea after detecting a lot of E. coli in our data due to the complicacy of the purification.
+
+
+
+
+Especially the library preparation and the sequencing is in the hand of trained life scientists, while the down-stream analysis often is performed by trained computer scientists. However, especially when sequencing prokaryotic(-like) material, a high contamination of the sample is possible, either by human DNA/RNA from library prep, ribosomal RNA due to rRNA depletion not working, or even contamination from other organisms (host organism for phages, etc.). In contrast to Illumina sequencing, for minION sequencing there is always the possibility to abort a sequencing procedure, redo the library preparation and continue using the same chip. The earlier such a contamination is detected, the better the sequencing chip can be conserved for future use. We are inspired of this idea after detecting a lot of E. coli in our data due to the complicacy of the purification. Here we want to present sequint, a cross-platform tool to easily detect contaminated samples during a sequencing run.
+
+
+
+
+
+
 
 
 What can sequ-into help you with and what not?

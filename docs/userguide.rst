@@ -74,13 +74,15 @@ Step 3: Results
 
 The Results consist of two parts:a statistical overview on how your reads mapped to the reference(s) and the
 possibility to extract and save only those filtered reads you need for your downstream analysis.
+saved ->
 
 
-
-
+**Statistical Overview**
 .. image:: ./images/3.png
    :scale: 40
 
 
+
+**Saving of filtered files**
 .. image:: ./images/4.png
     :scale: 40
